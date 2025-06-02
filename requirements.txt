@@ -6,4 +6,4 @@ seaborn
 streamlit
 joblib
 catboost
-shap
+
